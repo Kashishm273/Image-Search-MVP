@@ -11,7 +11,8 @@ class Constants {
         const val VALUE_48 = "48"
         const val JSON = "json"
         const val API_METHOD = "flickr.photos.search"
-        const val API_KEY = "88bd274f6a411a9094eb3749d0405dbc"
+        //add your flickr api key
+        const val API_KEY = ""
         const val DB_NAME: String = "DB_Images"
         const val REQUEST_CODE: Int = 4563
         const val SEARCH_TEXT = "searchText"
